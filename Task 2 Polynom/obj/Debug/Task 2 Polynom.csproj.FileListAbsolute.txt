@@ -1,0 +1,6 @@
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\bin\Debug\Task 2 Polynom.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\bin\Debug\Task 2 Polynom.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\obj\Debug\Task 2 Polynom.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\obj\Debug\Task 2 Polynom.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\obj\Debug\Task 2 Polynom.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 2 Polynom\obj\Debug\Task 2 Polynom.pdb

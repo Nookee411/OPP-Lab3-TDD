@@ -1,0 +1,19 @@
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Hex Tests.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Hex Tests.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Task 3 Hexademical.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Task 3 Hexademical.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\obj\Debug\Hex Tests.csprojAssemblyReference.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\obj\Debug\Hex Tests.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\obj\Debug\Hex Tests.csproj.CopyComplete
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\obj\Debug\Hex Tests.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hex Tests\obj\Debug\Hex Tests.pdb

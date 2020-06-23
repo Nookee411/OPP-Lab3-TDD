@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2I7vB+SkOyDRKCb0ckS5FqwSS5fyZVf99NUSSj6LQqxYLuFpBPh4qE0Yt0x42qJP0JBAZ8Hg+sqS1VXlUtaAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\OneDrive\\Desktop\\Учеба\\2 курс\\2 семестр\\ООП\\Lab 3\\Hexademical\\Task 3 Hexademical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

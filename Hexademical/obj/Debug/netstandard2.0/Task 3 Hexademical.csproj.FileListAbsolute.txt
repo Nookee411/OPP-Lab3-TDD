@@ -1,0 +1,8 @@
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\bin\Debug\netstandard2.0\Task 3 Hexademical.deps.json
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\bin\Debug\netstandard2.0\Task 3 Hexademical.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\bin\Debug\netstandard2.0\Task 3 Hexademical.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\obj\Debug\netstandard2.0\Task 3 Hexademical.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\obj\Debug\netstandard2.0\Task 3 Hexademical.AssemblyInfoInputs.cache
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\obj\Debug\netstandard2.0\Task 3 Hexademical.AssemblyInfo.cs
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\obj\Debug\netstandard2.0\Task 3 Hexademical.dll
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Hexademical\obj\Debug\netstandard2.0\Task 3 Hexademical.pdb

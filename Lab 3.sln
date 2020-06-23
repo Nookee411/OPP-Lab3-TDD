@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 Fractions", "Task 1 Fractions\Task 1 Fractions.csproj", "{803DB489-EA11-4C01-A04B-6B6F6BDDFE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction Tests", "Fraction Tests\Fraction Tests.csproj", "{6945E705-4CC3-4755-8EA5-8BE5DE288EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 Polynom", "Task 2 Polynom\Task 2 Polynom.csproj", "{0E80FC31-0681-42D0-9E20-21D814E53FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynom Tests", "Polynom Tests\Polynom Tests.csproj", "{35FEC7CB-2653-471C-B23D-827A9BB752EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3 Hexademical", "Hexademical\Task 3 Hexademical.csproj", "{A33905CF-8ACE-428E-8EC9-E3A459380E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex Tests", "Hex Tests\Hex Tests.csproj", "{3D4CF004-9093-44AB-8E9F-4D2F6150BDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803DB489-EA11-4C01-A04B-6B6F6BDDFE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803DB489-EA11-4C01-A04B-6B6F6BDDFE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803DB489-EA11-4C01-A04B-6B6F6BDDFE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803DB489-EA11-4C01-A04B-6B6F6BDDFE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6945E705-4CC3-4755-8EA5-8BE5DE288EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6945E705-4CC3-4755-8EA5-8BE5DE288EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6945E705-4CC3-4755-8EA5-8BE5DE288EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6945E705-4CC3-4755-8EA5-8BE5DE288EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E80FC31-0681-42D0-9E20-21D814E53FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E80FC31-0681-42D0-9E20-21D814E53FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E80FC31-0681-42D0-9E20-21D814E53FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E80FC31-0681-42D0-9E20-21D814E53FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FEC7CB-2653-471C-B23D-827A9BB752EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FEC7CB-2653-471C-B23D-827A9BB752EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FEC7CB-2653-471C-B23D-827A9BB752EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FEC7CB-2653-471C-B23D-827A9BB752EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33905CF-8ACE-428E-8EC9-E3A459380E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33905CF-8ACE-428E-8EC9-E3A459380E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33905CF-8ACE-428E-8EC9-E3A459380E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33905CF-8ACE-428E-8EC9-E3A459380E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4CF004-9093-44AB-8E9F-4D2F6150BDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4CF004-9093-44AB-8E9F-4D2F6150BDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4CF004-9093-44AB-8E9F-4D2F6150BDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4CF004-9093-44AB-8E9F-4D2F6150BDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E177A7F-1959-4AE3-8448-16B6B3CBF0CA}
+	EndGlobalSection
+EndGlobal
