@@ -3,3 +3,4 @@ C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\La
 C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 1 Fractions\obj\Debug\Task 1 Fractions.csproj.CoreCompileInputs.cache
 C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 1 Fractions\obj\Debug\Task 1 Fractions.dll
 C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 1 Fractions\obj\Debug\Task 1 Fractions.pdb
+C:\Users\danii\OneDrive\Desktop\Учеба\2 курс\2 семестр\ООП\Lab 3\Task 1 Fractions\obj\Debug\Task 1 Fractions.csprojAssemblyReference.cache

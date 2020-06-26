@@ -147,7 +147,7 @@ namespace Fraction_Tests
         {
             Fraction a = new Fraction(1, 5);
             Fraction b = new Fraction(5, 10);
-            Assert.AreEqual(true, (a < b));
+            Assert.IsTrue(a < b);
         }
 
         [TestMethod]

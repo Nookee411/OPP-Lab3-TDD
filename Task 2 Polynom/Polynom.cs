@@ -55,7 +55,7 @@ namespace Task_2_Polynom
             else
             {
                 for (int i = 0; i < this.Degree + 1; i++)
-                    if (this[i] != temp.Degree)
+                    if (this[i] != temp[i])
                         res = false;
             }
             return res;

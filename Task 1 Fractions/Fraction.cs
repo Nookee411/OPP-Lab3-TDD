@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_1_Fractions
 {
-    public class Fraction
+    public class Fraction : IComparable
     {
         private int numerator;
         private int denominator;
@@ -130,11 +130,11 @@ namespace Task_1_Fractions
 
         public static bool operator >(Fraction a, Fraction b)
         {
-            return (a > b);
+            return a.CompareTo(b)==1;
         }
         public static bool operator <(Fraction a, Fraction b)
         {
-            return (a < b);
+            return a.CompareTo(b)==-1;
         }
         //Private methods
         /// <summary>
@@ -146,6 +146,8 @@ namespace Task_1_Fractions
         private static int NOD(int n1, int n2)
         {
             int div;
+            n1 = Math.Abs(n1);
+            n2 = Math.Abs(n2);
             if (n1 == n2) return n1;
             int d = n1 - n2;
             if (d < 0)
@@ -191,6 +193,15 @@ namespace Task_1_Fractions
             num /= nod;
             denum /= nod;
             a = new Fraction(num, denum);
-        } 
+        }
+
+        public int CompareTo(object obj)
+        {
+            Fraction sr = (Fraction)obj;
+            Fraction fr = this;
+            fr.numerator *= sr.denominator;
+            sr.numerator = fr.denominator;
+            return fr.numerator.CompareTo(sr.numerator);
+        }
     }
 }
